@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\newBatch2\DataStructureDemo\DataStructureDemo\bin\Debug\net6.0\DataStructureDemo.exe
+C:\Users\hp\Desktop\newBatch2\DataStructureDemo\DataStructureDemo\bin\Debug\net6.0\DataStructureDemo.deps.json
+C:\Users\hp\Desktop\newBatch2\DataStructureDemo\DataStructureDemo\bin\Debug\net6.0\DataStructureDemo.runtimeconfig.json
+C:\Users\hp\Desktop\newBatch2\DataStructureDemo\DataStructureDemo\bin\Debug\net6.0\DataStructureDemo.dll
+C:\Users\hp\Desktop\newBatch2\DataStructureDemo\DataStructureDemo\bin\Debug\net6.0\DataStructureDemo.pdb
+C:\Users\hp\Desktop\newBatch2\DataStructureDemo\DataStructureDemo\obj\Debug\net6.0\DataStructureDemo.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\newBatch2\DataStructureDemo\DataStructureDemo\obj\Debug\net6.0\DataStructureDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\newBatch2\DataStructureDemo\DataStructureDemo\obj\Debug\net6.0\DataStructureDemo.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\newBatch2\DataStructureDemo\DataStructureDemo\obj\Debug\net6.0\DataStructureDemo.AssemblyInfo.cs
+C:\Users\hp\Desktop\newBatch2\DataStructureDemo\DataStructureDemo\obj\Debug\net6.0\DataStructureDemo.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\newBatch2\DataStructureDemo\DataStructureDemo\obj\Debug\net6.0\DataStructureDemo.dll
+C:\Users\hp\Desktop\newBatch2\DataStructureDemo\DataStructureDemo\obj\Debug\net6.0\refint\DataStructureDemo.dll
+C:\Users\hp\Desktop\newBatch2\DataStructureDemo\DataStructureDemo\obj\Debug\net6.0\DataStructureDemo.pdb
+C:\Users\hp\Desktop\newBatch2\DataStructureDemo\DataStructureDemo\obj\Debug\net6.0\DataStructureDemo.genruntimeconfig.cache
+C:\Users\hp\Desktop\newBatch2\DataStructureDemo\DataStructureDemo\obj\Debug\net6.0\ref\DataStructureDemo.dll
